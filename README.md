@@ -10,3 +10,7 @@ For more info on the game download it and use the `help` command to know about e
 
 It's written completely in Java.
 And the launcher is written in Batch and compiled to an Executable file for ease of access.
+
+
+
+If you've got any ideas to add to the game, feel free to contact me here or on discord.
