@@ -8,9 +8,8 @@ It is a game based on hacking other people.
 For more info on the game download it and use the `help` command to know about each command.
 # What programming lauguage is it written in?
 
-It's written completely in Java.
-And the launcher is written in Batch and compiled to an Executable file for ease of access.
+Both the game and the launcher are written in Java.
 
 
-
-If you've got any ideas to add to the game, feel free to contact me here or on discord.
+I hope you enjoy the game :D.
+If you've got any ideas to add to the game, feel free to contact me here or on discord!
